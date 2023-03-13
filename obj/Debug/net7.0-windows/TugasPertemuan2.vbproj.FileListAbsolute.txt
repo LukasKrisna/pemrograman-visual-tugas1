@@ -1,0 +1,17 @@
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\Tugas\TugasPertemuan2\bin\Debug\net7.0-windows\TugasPertemuan2.exe
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\Tugas\TugasPertemuan2\bin\Debug\net7.0-windows\TugasPertemuan2.deps.json
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\Tugas\TugasPertemuan2\bin\Debug\net7.0-windows\TugasPertemuan2.runtimeconfig.json
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\Tugas\TugasPertemuan2\bin\Debug\net7.0-windows\TugasPertemuan2.dll
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\Tugas\TugasPertemuan2\bin\Debug\net7.0-windows\TugasPertemuan2.pdb
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\Tugas\TugasPertemuan2\obj\Debug\net7.0-windows\TugasPertemuan2.vbproj.AssemblyReference.cache
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\Tugas\TugasPertemuan2\obj\Debug\net7.0-windows\TugasPertemuan2.Form1.resources
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\Tugas\TugasPertemuan2\obj\Debug\net7.0-windows\TugasPertemuan2.vbproj.GenerateResource.cache
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\Tugas\TugasPertemuan2\obj\Debug\net7.0-windows\TugasPertemuan2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\Tugas\TugasPertemuan2\obj\Debug\net7.0-windows\TugasPertemuan2.AssemblyInfoInputs.cache
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\Tugas\TugasPertemuan2\obj\Debug\net7.0-windows\TugasPertemuan2.AssemblyInfo.vb
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\Tugas\TugasPertemuan2\obj\Debug\net7.0-windows\TugasPertemuan2.vbproj.CoreCompileInputs.cache
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\Tugas\TugasPertemuan2\obj\Debug\net7.0-windows\TugasPertemuan2.dll
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\Tugas\TugasPertemuan2\obj\Debug\net7.0-windows\refint\TugasPertemuan2.dll
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\Tugas\TugasPertemuan2\obj\Debug\net7.0-windows\TugasPertemuan2.pdb
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\Tugas\TugasPertemuan2\obj\Debug\net7.0-windows\TugasPertemuan2.genruntimeconfig.cache
+C:\Lookas\STIKOM\SEMESTER 2\Pemrograman Visual\Tugas\TugasPertemuan2\obj\Debug\net7.0-windows\ref\TugasPertemuan2.dll
