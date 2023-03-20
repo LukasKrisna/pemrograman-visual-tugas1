@@ -4,12 +4,19 @@ Public Class Form1
     Public Sub ButtonSend_Click(sender As Object, e As EventArgs) Handles ButtonSend.Click
         'deklarasi variabel
         Dim ukv As Integer = 150000
-        Dim prodi, matkul, ukp, jumlahUkv
+        Dim ukp, jumlahUkv
 
         'validasi formulir
-        If TextBoxNim.Text = "" Or TextBoxNama.Text = "" Or ComboBoxProdi.Text = "" Then
+        If TextBoxNim.Text = "" Or
+           TextBoxNama.Text = "" Or
+           ComboBoxProdi.Text = "" Or (
+           CheckBoxAkuntansi.Checked = False And
+           CheckBoxAlgo.Checked = False And
+           CheckBoxDesain.Checked = False And
+           CheckBoxPemrograman.Checked = False And
+           CheckBoxRobotika.Checked = False) Then
 
-            MsgBox("NIM, Nama, dan Prodi harus terisi")
+            MsgBox("NIM, Nama, Prodi dan setidaknya 1 Mata Kuliah harus terisi")
 
         Else
             'pengkondisian ukp setiap prodi sesuai combo box
@@ -42,7 +49,7 @@ Public Class Form1
 
             'menampilkan hasil form
             MsgBox(TextBoxNim.Text + vbCrLf + TextBoxNama.Text + vbCrLf + ComboBoxProdi.Text + vbCrLf +
-                   "UKP " + ukp + vbCrLf + "UKV " + jumlahUkv.ToString)
+                   "UKP " + ukp + vbCrLf + "UKV Rp " + jumlahUkv.ToString)
         End If
 
     End Sub

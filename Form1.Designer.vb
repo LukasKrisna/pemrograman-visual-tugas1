@@ -158,7 +158,7 @@ Partial Class Form1
         ButtonSend.Name = "ButtonSend"
         ButtonSend.Size = New Size(139, 63)
         ButtonSend.TabIndex = 12
-        ButtonSend.Text = "Kirim"
+        ButtonSend.Text = "Hitung"
         ButtonSend.UseVisualStyleBackColor = True
         ' 
         ' Form1
