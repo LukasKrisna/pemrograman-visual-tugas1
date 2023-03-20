@@ -5,6 +5,8 @@ Public Class Form1
         'deklarasi variabel
         Dim ukv As Integer = 150000
         Dim ukp, jumlahUkv
+        Dim captionHitung As String = "Hasil Perhitungan"
+        Dim captionValidasiForm As String = "Warning!"
 
         'validasi formulir
         If TextBoxNim.Text = "" Or
@@ -16,7 +18,7 @@ Public Class Form1
            CheckBoxPemrograman.Checked = False And
            CheckBoxRobotika.Checked = False) Then
 
-            MsgBox("NIM, Nama, Prodi dan setidaknya 1 Mata Kuliah harus terisi")
+            MessageBox.Show("NIM, Nama, Prodi dan setidaknya 1 Mata Kuliah harus terisi", captionValidasiForm)
 
         Else
             'pengkondisian ukp setiap prodi sesuai combo box
@@ -48,8 +50,8 @@ Public Class Form1
             End If
 
             'menampilkan hasil form
-            MsgBox(TextBoxNim.Text + vbCrLf + TextBoxNama.Text + vbCrLf + ComboBoxProdi.Text + vbCrLf +
-                   "UKP " + ukp + vbCrLf + "UKV Rp " + jumlahUkv.ToString)
+            MessageBox.Show(TextBoxNim.Text + vbCrLf + TextBoxNama.Text + vbCrLf + ComboBoxProdi.Text + vbCrLf +
+                   "UKP " + ukp + vbCrLf + "UKV Rp " + jumlahUkv.ToString, captionHitung)
         End If
 
     End Sub
